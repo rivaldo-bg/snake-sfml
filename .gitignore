@@ -1,0 +1,7 @@
+obj/
+bin/
+*.exe
+*.obj
+.depend
+*.layout
+*.dll
